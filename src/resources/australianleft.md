@@ -2,5 +2,5 @@
 
 Acronyms:
 
- - *SAlt*: Refers to Socialist Alternative
- - *SA/Sall*: Refers to Socialist Alliance
+ - SAlt: Refers to Socialist Alternative
+ - SA/Sall: Refers to Socialist Alliance
